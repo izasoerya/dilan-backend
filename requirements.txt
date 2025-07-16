@@ -1,0 +1,5 @@
+fastapi
+fastapi-mqtt
+uvicorn
+python-dotenv
+requests
